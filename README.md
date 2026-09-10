@@ -61,7 +61,7 @@ The Decision Tree achieved the highest Recall, F1-score and ROC-AUC among the ev
 
 ### SHAP Feature Importance
 
-![SHAP Feature Importance](visualizations/modeling/shap_summary.png)
+![SHAP Feature Importance](visualizations/modelling/shap_summary.png)
 
 The most influential features included prior inpatient visits, discharge disposition, number of diagnoses, length of hospital stay, number of medications, insulin status and prior emergency visits.
 
