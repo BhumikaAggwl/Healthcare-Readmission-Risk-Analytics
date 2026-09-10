@@ -39,29 +39,24 @@ The Decision Tree achieved the highest Recall, F1-score and ROC-AUC among the ev
 
 ### 30-Day Readmission Distribution
 
-![Readmission Distribution](visualizations/eda/readmission_distribution.png)
+![Readmission Distribution](healthcare-readmission-risk/visualizations/eda/readmission_distribution.png)
 
 ### Readmission Rate by Age
 
-![Readmission by Age](visualizations/eda/readmission_by_age.png)
+![Readmission by Age](healthcare-readmission-risk/visualizations/eda/readmission_by_age.png)
 
 ### Readmission Rate by Length of Stay
 
-![Readmission by Stay](visualizations/eda/readmission_by_stay.png)
+![Readmission by Stay](healthcare-readmission-risk/visualizations/eda/readmission_by_stay.png)
 
 ### Readmission Rate by Prior Inpatient Visits
 
-![Readmission by Inpatient Visits](visualizations/eda/readmission_by_inpatient.png)
-
-### Readmission Rate by Number of Medications
-
-![Readmission by Medications](visualizations/eda/readmission_by_medications.png)
+![Readmission by Inpatient Visits](healthcare-readmission-risk/visualizations/eda/readmission_by_inpatient.png)
 
 ## Model Interpretation
 
 ### SHAP Feature Importance
-
-![SHAP Feature Importance](visualizations/modelling/shap_summary.png)
+![SHAP Feature Importance](healthcare-readmission-risk/visualizations/modelling/shap_summary.png)
 
 The most influential features included prior inpatient visits, discharge disposition, number of diagnoses, length of hospital stay, number of medications, insulin status and prior emergency visits.
 
