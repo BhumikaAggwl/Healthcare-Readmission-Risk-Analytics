@@ -1,0 +1,4 @@
+Test,Test_Statistic,P_Value
+Length of Stay vs Readmission,13.92578167265915,8.549546879359604e-44
+Number of Medications vs Readmission,12.30197589641767,1.3193210508195975e-34
+Gender vs Readmission,1.2372549359096927,0.5386832905074449
