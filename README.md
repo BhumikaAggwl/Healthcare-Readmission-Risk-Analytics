@@ -115,5 +115,3 @@ This project is intended for analytical and educational purposes. Model predicti
 
 
 
-**One thing:** make sure the actual `.png` files are committed under `visualizations/`, otherwise GitHub will show broken images.
-```
